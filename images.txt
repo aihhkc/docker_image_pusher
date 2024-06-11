@@ -1,6 +1,1 @@
-homeassistant/home-assistant:latest
-whyour/qinglong:2.15
-nodered/node-red:latest
-esphome/esphome:latest
-emqx:latest
-
+--platform linux/arm/v7 homeassistant/home-assistant:latest
