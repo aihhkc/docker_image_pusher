@@ -1,1 +1,1 @@
---platform linux/arm64 homeassistant/home-assistant:latest
+--platform linux/arm64 homeassistant/homeassistant:2025.8.3
